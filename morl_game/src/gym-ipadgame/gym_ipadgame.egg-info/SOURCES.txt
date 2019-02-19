@@ -1,0 +1,6 @@
+setup.py
+gym_ipadgame.egg-info/PKG-INFO
+gym_ipadgame.egg-info/SOURCES.txt
+gym_ipadgame.egg-info/dependency_links.txt
+gym_ipadgame.egg-info/requires.txt
+gym_ipadgame.egg-info/top_level.txt
